@@ -1,8 +1,9 @@
-ultralytics
-opencv-python-headless
 streamlit
-streamlit-webrtc
+ultralytics>=8.3.0
+opencv-python-headless
 numpy
 pandas
 Pillow
+streamlit-webrtc
 av
+lapx
